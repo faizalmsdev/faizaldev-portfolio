@@ -1,2 +1,4 @@
-# faizaldev-portfolio
-Introducing my portfolio website repository, a hub showcasing my skills, projects, and achievements, providing a comprehensive overview of my professional journey and expertise in one place.
+# It's My Portfolio Project
+It's My Portfolio Code
+<h3>Visit this link <a href="https://faizaldev.netlify.app/">Click Here</a></h3>
+<img src="./preview/laptop view.jpeg">
